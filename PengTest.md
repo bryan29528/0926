@@ -1,1 +1,3 @@
-- # MarkDown Test
+- # This is the self inntroduction of 彭祥恩
+- ## I am a fourth year student under the department of electrical engineering, down below is a 3D printing model I drew on [Thinkercad](https://www.tinkercad.com/dashboard)
+- ![image](https://github.com/user-attachments/assets/c2f53bcd-5e9f-4f54-9fc6-df5a9434f881)

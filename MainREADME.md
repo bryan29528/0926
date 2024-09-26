@@ -4,4 +4,3 @@
 - [黃柏翰](bryan.md)
 - 林妤宸
 
-![alt text](image.png)
